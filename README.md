@@ -1,6 +1,6 @@
 # [saltyfrosty.github.io](https://github.com/SaltyFrosty/saltyfrosty.github.io "Описание")
 # Андрей Санников
-##Мои домашние задания
+## Мои домашние задания
 
 ---
 
@@ -10,7 +10,7 @@
 
 [Урок № 14](https://saltyfrosty.github.io/lesson_14/index.html "Описание")
 
-##Мои практические рпботы
+## Мои практические работы
 
 ---
 
