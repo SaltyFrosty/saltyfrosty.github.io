@@ -18,7 +18,7 @@
 
 [Урок № 8](https://yadi.sk/d/o4hBLEYtiu-HsQ "Описание")
 
-[Урок № 9](https://saltyfrosty.github.io/module_3.lesson_9/index.html "Описание")
+[Урок № 9](https://yadi.sk/d/PgUwMhTVng6J2g "Описание")   [github.pages](https://saltyfrosty.github.io/module_3.lesson_9/index.html "Описание")
 
 [Урок № 10](https://yadi.sk/d/TKaRcm2WWMWNfw "Описание")
 
