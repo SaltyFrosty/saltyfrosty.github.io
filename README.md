@@ -12,9 +12,17 @@
 
 [Урок № 5](https://codepen.io/SaltyFrosty/pen/oOMZxW?editors=1100 "Описание")
 
-Урок № 5 [Задание № 1](https://codepen.io/SaltyFrosty/pen/mgGRey "Описание")/[Задание № 2](https://codepen.io/SaltyFrosty/pen/pBOEOz "Описание")
+Урок № 6 [Задание № 1](https://codepen.io/SaltyFrosty/pen/mgGRey "Описание")/[Задание № 2](https://codepen.io/SaltyFrosty/pen/pBOEOz "Описание")
+
+[Урок № 7](https://yadi.sk/d/eJBiXCOp44IRcA "Описание")
+
+[Урок № 8](https://yadi.sk/d/o4hBLEYtiu-HsQ "Описание")
 
 [Урок № 9](https://saltyfrosty.github.io/module_3.lesson_9/index.html "Описание")
+
+[Урок № 10](https://yadi.sk/d/TKaRcm2WWMWNfw "Описание")
+
+[Урок № 12](https://saltyfrosty.github.io "Описание")
 
 [Урок № 13](https://saltyfrosty.github.io/lesson_13/index.html "Описание")
 
