@@ -30,6 +30,8 @@
 
 [Урок № 15](https://saltyfrosty.github.io/lesson_15/index.html "Описание")
 
+[Урок № 16](https://saltyfrosty.github.io/lesson_16/src/index.html "Описание")
+
 ## Мои практические работы
 
 ---
