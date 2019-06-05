@@ -41,3 +41,7 @@
 [Часть № 2](https://saltyfrosty.github.io/practic.p2/src/index.html "Описание")
 
 [Часть № 3](https://saltyfrosty.github.io/practic.p3/src/index.html "Описание")
+
+[Часть № 4](https://saltyfrosty.github.io/practic.p4/src/index.html "Описание")
+
+
