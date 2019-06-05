@@ -32,6 +32,8 @@
 
 [Урок № 16](https://saltyfrosty.github.io/lesson_16/src/index.html "Описание")
 
+[Урок № 17](https://saltyfrosty.github.io/lesson_17/src/index.html "Описание")
+
 ## Мои практические работы
 
 ---
