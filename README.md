@@ -46,4 +46,6 @@
 
 [Часть № 4](https://saltyfrosty.github.io/practic.p4/src/index.html "Описание")
 
+[Часть № 5](https://saltyfrosty.github.io/practic.p5/src/index.html "Описание")
+
 
