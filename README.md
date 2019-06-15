@@ -22,7 +22,7 @@
 
 [Урок № 10](https://yadi.sk/d/TKaRcm2WWMWNfw "Описание") Препроцессор LESS для CSS.
 
-Урок № 10 Сниппеты.
+Урок № 11 Сниппеты.
 
 [Урок № 12](https://saltyfrosty.github.io "Описание") Хостинг от GitHub.
 
