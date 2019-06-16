@@ -12,13 +12,13 @@
 
 [Урок № 5](https://codepen.io/SaltyFrosty/pen/oOMZxW?editors=1100 "Описание") Знакомство с основами CSS.
 
-Урок № 6 [Задание № 1](https://codepen.io/SaltyFrosty/pen/mgGRey "Описание")/[Задание № 2](https://codepen.io/SaltyFrosty/pen/pBOEOz "Описание") Позиционирование в CSS.
+Урок № 6 Позиционирование в CSS. [Задание № 1](https://codepen.io/SaltyFrosty/pen/mgGRey "Описание")/[Задание № 2](https://codepen.io/SaltyFrosty/pen/pBOEOz "Описание")
 
 [Урок № 7](https://yadi.sk/d/eJBiXCOp44IRcA "Описание") Верстка первого макета.
 
 [Урок № 8](https://yadi.sk/d/o4hBLEYtiu-HsQ "Описание") Ускорение верстки в разы.
 
-[Урок № 9](https://yadi.sk/d/PgUwMhTVng6J2g "Описание")   [github.pages](https://saltyfrosty.github.io/module_3.lesson_9/index.html "Описание") Верстка при помощи bootstrap.
+[Урок № 9](https://yadi.sk/d/PgUwMhTVng6J2g "Описание") Верстка при помощи bootstrap. [github.pages](https://saltyfrosty.github.io/module_3.lesson_9/index.html "Описание") 
 
 [Урок № 10](https://yadi.sk/d/TKaRcm2WWMWNfw "Описание") Препроцессор LESS для CSS.
 
@@ -36,7 +36,7 @@
 
 [Урок № 17](https://saltyfrosty.github.io/lesson_17/src/index.html "Описание") Всплывающие окна.
 
-Урок № 18 Табы и аккордеон на сайте.
+Урок № 18 Табы и аккордеон на сайте. [Задание № 1](https://saltyfrosty.github.io/lesson_18/tab/src/index.html "Описание")/[Задание № 2](https://saltyfrosty.github.io/lesson_18/accordion/src/index.html "Описание")
 
 ## Мои практические работы
 
