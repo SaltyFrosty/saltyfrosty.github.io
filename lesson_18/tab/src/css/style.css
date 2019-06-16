@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('../fonts/subset-MyriadPro-Regular.eot');
+  src: url('../fonts/subset-MyriadPro-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/subset-MyriadPro-Regular.woff2') format('woff2'), url('../fonts/subset-MyriadPro-Regular.woff') format('woff'), url('../fonts/subset-MyriadPro-Regular.ttf') format('truetype'), url('../fonts/subset-MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+html {
+  font-size: 10px;
+  font-family: 'Myriad Pro';
+}
+body {
+  background-image: url(../img/theme.png);
+}
+.field {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: url(../img/shadow.png) no-repeat center center;
+  background-size: cover;
+}
+.content {
+  width: 63rem;
+  height: 45rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -22.5rem;
+  margin-left: -31.5rem;
+}
+.content a {
+  outline: none;
+}
+.content .nav-tabs {
+  border: none;
+}
+.content .nav-item {
+  margin-left: 1rem;
+  border-bottom: none;
+  font-size: 2.3rem;
+}
+.content .nav-item:first-child::before {
+  content: " ";
+  margin-right: 1.5rem;
+}
+.content .nav-item .active {
+  background-color: #0497c4;
+  color: #fff;
+}
+.content .nav-link {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 0.7rem 0.7rem 0 0;
+  font-weight: 400;
+  background-color: #fff;
+  color: #000;
+}
+.content .nav-link:first-child {
+  padding: 0.5rem 2rem;
+}
+.content .tab-content {
+  display: block;
+  height: 90%;
+  border: 2rem solid #0497c4;
+  border-radius: 5px;
+  font-size: 1.5em;
+  background-color: #000;
+}
+.content .tab-content input {
+  display: block;
+  width: 48rem;
+  height: 6rem;
+  margin: 2.5rem auto;
+  padding: 2rem;
+  border: none;
+  border-radius: 0.7rem;
+  font-size: 2.4rem;
+  background: url(../img/layer.png);
+  outline: none;
+  color: #fff;
+}
+.content .tab-content input:active {
+  outline: none;
+}
+.content .tab-content input::-webkit-input-placeholder {
+  color: #fff;
+}
+.content .tab-content input:-ms-input-placeholder {
+  color: #fff;
+}
+.content .tab-content input::-ms-input-placeholder {
+  color: #fff;
+}
+.content .tab-content input::placeholder {
+  color: #fff;
+}
+.content .tab-content input:first-child {
+  margin-top: 6.5rem;
+}
+.content .tab-content a {
+  display: block;
+  margin: 2rem 6.7rem;
+  color: #c51f03;
+}
+.content .tab-content #check {
+  display: inline;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin: 4rem 0 0 6.7rem;
+}
+.content .tab-content label {
+  color: #6f6d6d;
+}
+.content .tab-content .login {
+  display: inline-block;
+  position: relative;
+  right: -30rem;
+  font-size: 2.4rem;
+}
+.content .tab-content .login-btn {
+  display: block;
+  width: 12.8rem;
+  height: 4rem;
+  margin: 0;
+  text-align: center;
+  background: url(../img/ribbon.png);
+  color: #fff;
+}
+.content .tab-content .login .flaps {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  float: right;
+  text-align: right;
+  background: url(../img/flaps.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -5;
+}
