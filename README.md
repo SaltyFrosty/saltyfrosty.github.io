@@ -38,6 +38,14 @@
 
 Урок № 18 Табы и аккордеон на сайте. [Задание № 1](https://saltyfrosty.github.io/lesson_18/tab/src/index.html "Описание")/[Задание № 2](https://saltyfrosty.github.io/lesson_18/accordion/src/index.html "Описание")
 
+[Урок № 19](https://saltyfrosty.github.io/lesson_19/src/index.html "Описание") Анимация на CSS3.
+
+[Урок № 20](https://saltyfrosty.github.io/lesson_20/src/index.html "Описание") Видео-фон на сайте.
+
+[Урок № 21](https://saltyfrosty.github.io/lesson_21/src/index.html "Описание") Parallax эффект для сайта.
+
+[Урок № 22](https://saltyfrosty.github.io/lesson_22/src/index.html "Описание") Гео-карты для сайта.
+
 ## Мои практические работы
 
 ---
@@ -50,4 +58,14 @@
 
 [Часть № 4](https://saltyfrosty.github.io/practic.p4/src/index.html "Описание") Верстка блока с преимуществами. Слайдер.
 
-[Часть № 5](https://saltyfrosty.github.io/practic.p5/src/index.html "Описание") Верстка всплывающих окон на сайте
+[Часть № 5](https://saltyfrosty.github.io/practic.p5/src/index.html "Описание") Верстка всплывающих окон на сайте.
+
+[Часть № 6](https://saltyfrosty.github.io/practic.p6/src/index.html "Описание") Верстка блока с ценами.
+
+[Часть № 7](https://saltyfrosty.github.io/practic.p7/src/index.html "Описание") Верстка блока с отзывами.
+
+[Часть № 8](https://saltyfrosty.github.io/practic.p8/src/index.html "Описание") Доверстали блок с отзывами.
+
+[Часть № 9](https://saltyfrosty.github.io/practic.p9/src/index.html "Описание") Верстаем схему работы и все включено.
+
+[Часть № 10](https://saltyfrosty.github.io/practic.p10/src/index.html "Описание") Верстаем блок "Развеиваем сомнения".
